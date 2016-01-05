@@ -1,0 +1,23 @@
+{
+  "name": "project_euler",
+  "version": "1.0.0",
+  "description": "Gettin Mathematical",
+  "main": "01multiples_of_3_and_5.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexzywiak/project_euler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexzywiak/project_euler/issues"
+  },
+  "homepage": "https://github.com/alexzywiak/project_euler",
+  "devDependencies": {
+    "babel-cli": "^6.3.17",
+    "babel-preset-es2015": "^6.3.13"
+  }
+}
